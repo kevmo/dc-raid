@@ -8,7 +8,9 @@ app = Flask(__name__)
 
 @app.route("/", methods=["GET"])
 def index():
-    get_ward_data()
+    wards = get_ward_data()
+    for ward in wards:
+        print ward
     return "HELLLO"
 
 
