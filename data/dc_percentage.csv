@@ -1,4 +1,4 @@
-ward,population,black_pop,black_per_capita,percent_home_searches,total_home_searches,home_searchers_per_1000_capita,home_search_ratio
+name,population,black_pop,black_per_capita,percent_home_searches,total_home_searches,home_searchers_per_1000_capita,home_search_ratio
 1,76197,24794,0.32500000000000001,16.003554952579925,11,0.14436263894904,0.064418
 2,79915,10079,0.126,6.2044551508463712,1,0.012513,0.005584
 3,77152,3860,0.05,2.4620853773199887,2,0.025923,0.011567
